@@ -94,6 +94,14 @@ p { font-size: 14px; line-height: 1.7; }
   padding-top: 28px;
 }
 
+.logo-img {
+  width: 180px;
+  height: auto;
+  display: block;
+  margin: 0 auto 8px;
+  filter: drop-shadow(0 4px 12px rgba(76,61,25,0.18));
+}
+
 .tagline {
   font-size: 10px;
   letter-spacing: 4px;
